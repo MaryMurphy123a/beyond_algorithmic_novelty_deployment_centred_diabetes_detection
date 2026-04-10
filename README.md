@@ -80,10 +80,6 @@ This study follows TRIPOD+AI guidelines for transparent reporting of clinical pr
 
 ## Licence and Enquiries
 
-Copyright © [Year] Mary Murphy. All Rights Reserved.
-
-The research pipeline and associated code are proprietary and are not included in this repository. They may not be reproduced, adapted, or used for commercial purposes without prior written permission from the author.
-
 Enquiries regarding the research, potential collaboration, or licensing may be directed to: [murphy-m100@ulster.ac.uk]
 
 NHANES data used in this study are publicly available from the CDC (https://www.cdc.gov/nchs/nhanes/index.htm) under their terms of use and are not redistributed here.
